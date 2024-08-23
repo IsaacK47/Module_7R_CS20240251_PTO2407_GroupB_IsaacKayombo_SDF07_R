@@ -55,3 +55,7 @@ Once you've completed and tested your app:
 
 1. **Generate a Public Link:** If you've pushed your project to GitHub, your repository URL is what you'll need.
 2. **Submit the link:** to your completed app via the Learning Management System (LMS) [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+
+
+ZOOM LINK VIDEO:
+https://drive.google.com/file/d/1ftcDT9X25oicuXgyOnlxmwXHBTkjknQz/view?usp=drivesdk
