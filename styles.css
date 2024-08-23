@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Custom Properties, update these for your own design */
+/* Custom Properties, Color Varibles and Fonts */
 
 :root {
     --ff-primary: "New Amsterdam", sans-serif;
@@ -35,6 +35,7 @@
     }
 }
 
+
 /* General Styles*/
 
 html {
@@ -60,6 +61,8 @@ img {
 }
 
 strong { font-weight: var(--fw-bold) }
+/* -- END OF GENERAL STYLES -- */
+
 
 /* Buttons */
 
@@ -80,8 +83,10 @@ strong { font-weight: var(--fw-bold) }
 .btn:hover {
     transform: scale(1.1);
 }
+/* -- END OF BUTTONS -- */
 
-/* Typography */
+
+/* Typography Styles */
 
 h1,
 h2,
@@ -124,8 +129,10 @@ h3 { font-size: var(--fs-h3) }
     font-weight: var(--fw-bold);
     margin-bottom: 2em;
 }
+/* -- END OF TYPOGRAPHY STYLES -- */
 
-/* Header */
+
+/* Header Section */
 
 header {
     display: flex;
@@ -231,6 +238,7 @@ header {
 .hamburger::before { top: 6px; }
 .hamburger::after { bottom: 6px; }
 
+/* -- END OF HEADER SECTION -- */
 
 
 /* Intro Section*/
@@ -276,7 +284,7 @@ header {
         width: calc(100% + 1.5em);
     }
 }
-
+/* -- END OF INTRO SECTION -- */
 
 
 /*  Service Section */
@@ -327,6 +335,7 @@ header {
         margin-left: 2em;
     }
 }
+/* -- END OF SERVICE SECTION -- */
 
 
 /* About Me Section */
@@ -371,7 +380,7 @@ header {
         z-index: 2;
     }
 }
-
+/* -- END OF ABOUT ME SECTION -- */
 
 
 /* Work Section */
@@ -402,6 +411,7 @@ header {
     transform: scale(1.2);
     opacity: .75;
 }
+/* -- END OF WORK SECTION -- */
 
 
 /* footer */
@@ -447,7 +457,7 @@ header {
 .social-list__link {
     padding: .5em;
 }
-
+/* -- END OF FOOTER SECTION -- */
 
 
 
